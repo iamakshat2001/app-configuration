@@ -1,5 +1,5 @@
 build:
   id: 333333
-  version: 3333.2.3
+  version: "3333.2.3"
   name: "Prod-Bild"
   type: "Prod Bild"
